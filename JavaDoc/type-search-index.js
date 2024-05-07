@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Person","l":"Candidate"},{"p":"Person","l":"InvalidCandidateException"},{"p":"Main","l":"Main"},{"p":"Person","l":"OrdinaryVoter"},{"p":"Person","l":"PresidentialCandidate"},{"p":"Election","l":"PresidentialElection"},{"p":"Person","l":"Voter"}];updateSearchResults();
